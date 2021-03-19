@@ -1,1 +1,41 @@
+body{
+  background-color: #444444;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 5% 10%;
+}
+h1{
+  background-color: black;
+  font-size: 36px;
+  border: 1px solid white;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 4px;
+}
 
+img{
+  width: 5%
+}
+
+.exp-header{
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
+  background-color: rgba(0,0,0, 0.1);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+
+.skill{
+  border: 1px solid white;
+  padding-left: 4px;
+  background-color: rgba(0,0,0, 0.1);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+
+.bobcat{
+  width: 300%; 
+}
